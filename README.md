@@ -36,7 +36,7 @@ To run the tests:
 
 ## Screenshot Performance:
 ### 💪The main code CLI
-[![Main Run](screenshot/main.jpg)](screenshot/main.jpg)
+[![Main Run](screenshot/main.JPG)](screenshot/main.JPG)
 
 ## 💪The Test code
-[![Test Run](screenshot/test.jpg)](screenshot/test.jpg)
+[![Test Run](screenshot/test.JPG)](screenshot/test.JPG)
