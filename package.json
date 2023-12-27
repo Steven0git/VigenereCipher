@@ -1,0 +1,15 @@
+{
+  "name": "vigenerecipher",
+  "version": "1.0.0",
+  "description": "Vigenere Cipher ",
+  "main": "main.js",
+  "scripts": {
+    "test":"node test/code.test.js",
+    "start": "node main.js"
+  },
+  "author": "Steven",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
